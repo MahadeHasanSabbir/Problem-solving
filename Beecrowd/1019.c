@@ -1,4 +1,4 @@
-//problem link: https://www.beecrowd.com.br/judge/en/problems/view/1019
+//problem link: https://judge.beecrowd.com/en/problems/view/1019
 //problem name: Time Conversion
 //M.H.Sabbir
 

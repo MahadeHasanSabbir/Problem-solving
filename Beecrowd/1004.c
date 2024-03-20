@@ -1,5 +1,5 @@
-//problem link:https://www.beecrowd.com.br/judge/en/problems/view/1004
-//problem name:Simple Product
+//problem link: https://judge.beecrowd.com/en/problems/view/1004
+//problem name: Simple Product
 //M.H.Sabbir
 
 #include <stdio.h>

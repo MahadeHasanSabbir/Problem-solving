@@ -1,5 +1,5 @@
-//problem link:https://www.beecrowd.com.br/judge/en/problems/view/1002
-//problem name:Area of a Circle
+//problem link: https://judge.beecrowd.com/en/problems/view/1002
+//problem name: Area of a Circle
 //M.H.Sabbir
 
 #include <stdio.h>

@@ -1,5 +1,5 @@
-//problem link:https://www.beecrowd.com.br/judge/en/problems/view/1007
-//problem name:Difference
+//problem link: https://judge.beecrowd.com/en/problems/view/1007
+//problem name: Difference
 //M.H.Sabbir
 
 #include <stdio.h>

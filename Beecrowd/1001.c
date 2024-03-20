@@ -1,5 +1,5 @@
-//problem link:https://www.beecrowd.com.br/judge/en/problems/view/1001
-//problem name:Extremely Basic
+//problem link: https://judge.beecrowd.com/en/problems/view/1001
+//problem name: Extremely Basic
 //M.H.Sabbir
 
 #include <stdio.h>

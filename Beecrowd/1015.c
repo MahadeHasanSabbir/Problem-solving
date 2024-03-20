@@ -1,4 +1,4 @@
-//problem link: https://www.beecrowd.com.br/judge/en/problems/view/1015
+//problem link: https://judge.beecrowd.com/en/problems/view/1015
 //problem name: Distance Between Two Points
 //M.H.Sabbir
 

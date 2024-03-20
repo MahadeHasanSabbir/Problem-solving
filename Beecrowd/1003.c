@@ -1,5 +1,5 @@
-//problem link:https://www.beecrowd.com.br/judge/en/problems/view/1003
-//problem name:Simple Sum
+//problem link: https://judge.beecrowd.com/en/problems/view/1003
+//problem name: Simple Sum
 //M.H.Sabbir
 
 #include <stdio.h>

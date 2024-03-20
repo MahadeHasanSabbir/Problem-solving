@@ -1,5 +1,5 @@
-//problem link:https://www.beecrowd.com.br/judge/en/problems/view/1008
-//problem name:Salary
+//problem link: https://judge.beecrowd.com/en/problems/view/1008
+//problem name: Salary
 //M.H.Sabbir
 
 #include <stdio.h>

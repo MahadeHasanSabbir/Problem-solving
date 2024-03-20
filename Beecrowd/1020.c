@@ -1,4 +1,4 @@
-//problen link: https://www.beecrowd.com.br/judge/en/problems/view/1020
+//problen link: https://judge.beecrowd.com/en/problems/view/1020
 //problem name: Age in Days
 //M.H.Sabbir
 

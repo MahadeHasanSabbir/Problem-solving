@@ -1,4 +1,4 @@
-//problem link: https://www.beecrowd.com.br/judge/en/problems/view/1016
+//problem link: https://judge.beecrowd.com/en/problems/view/1016
 //problem name: Distance
 //M.H.Sabbir
 

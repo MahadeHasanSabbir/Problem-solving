@@ -1,4 +1,4 @@
-//problem link: https://www.beecrowd.com.br/judge/en/problems/view/1012
+//problem link: https://judge.beecrowd.com/en/problems/view/1012
 //problem name: Area
 //M.H.Sabbir
 

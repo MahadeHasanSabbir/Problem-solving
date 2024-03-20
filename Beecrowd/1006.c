@@ -1,5 +1,5 @@
-//problem link:https://www.beecrowd.com.br/judge/en/problems/view/1006
-//problem name:Average 2
+//problem link: https://judge.beecrowd.com/en/problems/view/1006
+//problem name: Average 2
 //M.H.Sabbir
 
 #include <stdio.h>
